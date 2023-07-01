@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendBolsaDeTrabajoUTN", "BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN.csproj", "{63335C72-AE8D-4180-A8BE-B5F2D0EF67CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63335C72-AE8D-4180-A8BE-B5F2D0EF67CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63335C72-AE8D-4180-A8BE-B5F2D0EF67CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63335C72-AE8D-4180-A8BE-B5F2D0EF67CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63335C72-AE8D-4180-A8BE-B5F2D0EF67CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF9A5894-B54C-4F2D-977C-CB813D6BB255}
+	EndGlobalSection
+EndGlobal

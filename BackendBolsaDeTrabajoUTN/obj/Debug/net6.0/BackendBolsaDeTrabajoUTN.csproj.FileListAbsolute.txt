@@ -1,0 +1,515 @@
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Luciano\Desktop\PRoyecto al 30-04\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Sprache.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\PROYECTO bak\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\DotNetEnv.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Sprache.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Sprache.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\BACK 3-06\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Sprache.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Luciano\Desktop\MANUBACK\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\MySqlConnector.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.CodeDom.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Json.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\appsettings.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.exe
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.deps.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.runtimeconfig.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\DotNetEnv.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Sprache.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\scopedcss\bundle\BackendBolsaDeTrabajoUTN.styles.css
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CopyComplete
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\refint\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+D:\TUP Manuel\Programas TUP\4to CUATRIMESTRE\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\bin\Debug\net6.0\Docker.DotNet.dll
